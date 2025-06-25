@@ -7,7 +7,7 @@ export const About = () => {
     "JavaScript",
     "TailwindCSS",
     "HTML5",
-    "CSS"
+    "CSS3"
   ];
 
   return (
